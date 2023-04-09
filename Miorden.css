@@ -30,7 +30,7 @@ body{
 .my-order-container{
     display: grid;
     grid-template-rows: auto 1fr auto ; /*Toma la medida de su contenido interno*/
-    width: 30px;
+    width: 300px;
 }
 
 .my-order-content{
